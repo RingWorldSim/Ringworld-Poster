@@ -1,3 +1,5 @@
+Overview of what we should write on the poster/say in our presentation
+
 Abstract
 Ringworld, an idea based on the book of the same name by Larry Niven, is an artificial in the shape of a ring that orbits around a central star. So far firmly in the confines of Science Fiction, we sought to model Ringworld to better understand, if it was possible, how to build one and more importantly, the physical and mechanical constraints a Ringworld has during its operation.
 
