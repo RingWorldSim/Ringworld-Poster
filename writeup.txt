@@ -1,0 +1,18 @@
+Abstract
+Ringworld, an idea based on the book of the same name by Larry Niven, is an artificial in the shape of a ring that orbits around a central star. So far firmly in the confines of Science Fiction, we sought to model Ringworld to better understand, if it was possible, how to build one and more importantly, the physical and mechanical constraints a Ringworld has during its operation.
+
+We wanted to find the conditions that allowed for a stable Ringworld. 
+
+Our Model
+To model the behavior of Ringworld, we considered a collection of equally spaced masses a set distance away from a central star. We considered the star to be equal in mass to our Solar System’s own star, and set the distance away as the distance from the sun to Earth. To model the effects these masses connected as a ring, we considered the connection between masses to be springs with a spring constant k. To determine different conditions for how the Ringworld could fail, we could give the springs varying spring constants and the masses could then be given different initial velocities or directions.
+
+Assumptions Made
+The Mass of the star was assumed to be the mass of the sun. We held the ringworld at the earth’s radius, for if a Ringworld were to be constructed around a star of similar size and energy output to the sun, it would be most comfortable for its inhabitants to be around the distance to Earth away from this star.
+Interpretations:
+We can see that the initial velocity of Ringworld makes affects the stability and consequently its lifetime significantly. When Ringworld is held at the equivalent distance as Earth’s distance away from the sun, it must rotate at very close to Earth’s velocity, otherwise it will quickly collapse or expand.
+We found that given a slight perturbation of any mass, Ringworld will soon collapse. There is a set of safe operating conditions, but only if the system operates undisturbed. 
+
+Conclusions
+We have found constructing a ringworld to be a very difficult undertaking. The risk of disruption to any of the masses makes the actual construction, as well as maintenance, of a Ringworld close to impossible. A very narrow set of conditions exist that allow Ringworld to remain stable. If these conditions are not met, and maintained throughout operation, the Ringworld will break. We do not advise the construction of Ringworld at this moment in time.
+Future Work
+We would like to understand more precisely the mechanical constraints of a Ringworld. We would like to investigate the strength of materials, as well as the potential manufacturing methods of a ringworld and how one would go about building one in most effective manner. We would also like to understand better the effects of asteroids and comets on the ringworld. Although a ringworld from our modeling seems difficult or impossible to build and maintain, we could take our findings and apply them to constructing smaller scale spaceships with artificial gravity. 
